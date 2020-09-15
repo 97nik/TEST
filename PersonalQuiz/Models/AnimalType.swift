@@ -4,7 +4,8 @@
 //
 //  Created by Alexey Efimov on 06.02.2020.
 //  Copyright © 2020 Alexey Efimov. All rights reserved.
-//хуй
+//пизда
+
 
 
 enum AnimalType: Character {
